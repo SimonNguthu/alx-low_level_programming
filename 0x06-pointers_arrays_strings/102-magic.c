@@ -13,8 +13,7 @@ int main(void)
    * Remember:
    * - You are not allowed to use a
    * - You are not allowed to modify p
-   * - Write only one statement
-   * - You are not allowed to use ,
+   * - Write only one statement  
    * - You are not allowed to code anything else than this line of code
    */
   *(p + 5) = 98;
